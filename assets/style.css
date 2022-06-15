@@ -1,6 +1,6 @@
  body {
-   width: 500%;
-  height: 500%;
+   width: 1000px;
+  height: 1000px;
   display: flex;
   allign-items: center;
   justify-content: center;
