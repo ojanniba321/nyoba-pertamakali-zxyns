@@ -4,6 +4,6 @@
   display: flex;
   allign-items: center;
   justify-content: center;
-  background:url(background.jpg);
+  background:url("background.jpg");
   overflow: hidden;
 }
