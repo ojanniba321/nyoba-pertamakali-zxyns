@@ -1,2 +1,0 @@
-# nyoba-pertamakali-zxyns
-ye
