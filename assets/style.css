@@ -4,6 +4,6 @@
   display: flex;
   allign-items: center;
   justify-content: center;
-  background:url("background.jpg");
+  background-color: #141313;
   overflow: hidden;
 }
